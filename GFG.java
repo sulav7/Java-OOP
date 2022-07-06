@@ -1,6 +1,4 @@
 
-import java.io.*;
-
 // Main class
 public class GFG {
 
